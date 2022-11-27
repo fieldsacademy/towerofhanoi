@@ -1,3 +1,5 @@
+# Tower of Hanoi puzzle in R Shiny
+
 Code to implement the Tower of Hanoi puzzle in R, and create R shiny app. \
 Play the game here: https://fieldsacademy.shinyapps.io/towerofhanoi/
 
